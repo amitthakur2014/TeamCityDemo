@@ -4,8 +4,8 @@
     <version>0.00</version>
     <authors>James Heppinstall</authors>
     <owners>James Heppinstall</owners>
-    <id>DataAccess</id>
-    <title>DataAccess</title>
+    <id>SitecoreWeb</id>
+    <title>SitecoreWebProject</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Description</description>
     <copyright>Copyright Amit Thakur</copyright>
