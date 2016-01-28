@@ -4,10 +4,10 @@
     <version>0.00</version>
     <authors>James Heppinstall</authors>
     <owners>James Heppinstall</owners>
-    <id>SitecoreWeb</id>
+    <id>SitecoreWebProject</id>
     <title>SitecoreWebProject</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Description</description>
+    <description>Sitecore update package</description>
     <copyright>Copyright Amit Thakur</copyright>
    
   </metadata>
