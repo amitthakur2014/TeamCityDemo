@@ -1,0 +1,17 @@
+﻿---
+ID: 9c8265fe-1c84-4e59-a7b6-6f4302cf32e9
+Parent: 0de95ae4-41ab-4d01-9eb0-67441b7c2450
+Template: a87a00b1-e6db-45ab-8b54-636fec3b5523
+Path: /sitecore/content/Global
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20151015T121134Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin

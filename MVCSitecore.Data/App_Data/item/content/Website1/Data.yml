@@ -1,0 +1,17 @@
+﻿---
+ID: 40e7a198-f234-4e12-a37d-01de209e28bf
+Parent: 1a32ebcf-10b1-4ca1-9be9-b6eef6704f7e
+Template: a87a00b1-e6db-45ab-8b54-636fec3b5523
+Path: /sitecore/content/Website1/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20151015T063828Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin

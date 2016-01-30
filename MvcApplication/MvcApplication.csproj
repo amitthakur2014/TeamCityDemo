@@ -39,7 +39,27 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Kamsar.WebConsole, Version=1.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kamsar.WebConsole.1.2.2.0\lib\net40\Kamsar.WebConsole.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MicroCHAP, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MicroCHAP.1.2.0.0\lib\net45\MicroCHAP.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Rainbow, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Core.1.1.0\lib\net45\Rainbow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Sc, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Storage.Sc.1.1.0\lib\net45\Rainbow.Storage.Sc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Yaml, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Storage.Yaml.1.1.0\lib\net45\Rainbow.Storage.Yaml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -110,26 +130,19 @@
       <Private>False</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.30506.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
+    <Reference Include="Unicorn, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unicorn.Core.3.1.0\lib\net45\Unicorn.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Global.asax.cs">
-      <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Content Include="Global.asax" />
-    <Content Include="Web.config" />
-    <Content Include="Web.Debug.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </Content>
-    <Content Include="Web.Release.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </Content>
     <Content Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -144,6 +157,42 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MvcApplication.nuspec" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Rainbow.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\SiteUnicorn.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

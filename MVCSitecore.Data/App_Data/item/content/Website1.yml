@@ -1,0 +1,21 @@
+﻿---
+ID: 1a32ebcf-10b1-4ca1-9be9-b6eef6704f7e
+Parent: 0de95ae4-41ab-4d01-9eb0-67441b7c2450
+Template: bffb6cab-bc42-4649-a471-1d0c9ca487a3
+Path: /sitecore/content/Website1
+DB: master
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: Applications/16x16/star_red.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20151015T063729Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin
