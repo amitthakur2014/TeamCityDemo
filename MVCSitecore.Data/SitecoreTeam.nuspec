@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>SitecoreUpdatePackage</id>
+        <authors>Amit</authors>
+		<version>1.0.0.0</version>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Sitecore update package</description>
+    </metadata>
+    
+</package>
