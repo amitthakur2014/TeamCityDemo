@@ -11,4 +11,7 @@
     <copyright>Copyright Amit Thakur</copyright>
    
   </metadata>
+  <files>
+    <file src="bin\Release\**\*.*" />
+  </files>
   </package>

@@ -7,5 +7,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Sitecore update package</description>
     </metadata>
-    
+  <files>
+    <file src="bin\Release\**\*.*" />
+  </files>
 </package>
