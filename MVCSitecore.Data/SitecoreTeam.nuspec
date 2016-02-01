@@ -8,7 +8,6 @@
         <description>Sitecore update package</description>
     </metadata>
   <files>
-    <file src="bin\*.*" target="bin" />
-    <file src="App_Data\*.*" target="App_data"/>
+     <file src="App_Data\**\*.*" target="content"/>
   </files>
 </package>
