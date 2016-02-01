@@ -13,7 +13,7 @@
   </metadata>
   <files>
     <file src="bin\*.*" target="bin" />
-    <file src="Views\*.*" target="Views"/>
-  <file src="App_Config\*.*" target="App_Config"/>
+    <file src="Views\**\*.*" target="Views"/>
+  <file src="App_Config\**\*.*" target="App_Config"/>
   </files>
   </package>
