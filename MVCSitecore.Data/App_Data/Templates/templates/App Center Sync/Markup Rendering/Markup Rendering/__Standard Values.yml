@@ -1,0 +1,36 @@
+﻿---
+ID: 3638d62d-b7ce-4b76-ab9b-ee24edd4d462
+Parent: 912c762a-23f8-46a8-b50c-0dc07378ef98
+Template: 912c762a-23f8-46a8-b50c-0dc07378ef98
+Path: /sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/__Standard Values
+DB: master
+SharedFields:
+- ID: 1f424eb0-6138-4bc4-93b0-bd45ec6b1cb2
+  Hint: Namespace
+  Value: Sitecore.Apps.TagInjection.WebControls
+- ID: 9003574a-fb95-4f3c-b17c-33893dad35a9
+  Hint: Parameters Template
+  Value: {AB32966E-D8B7-4431-8065-0A7356F6D799}
+- ID: b8979e80-7623-4b3a-bfd2-3f3f05883d58
+  Hint: Tag
+  Value: MarkupRendering
+- ID: c2fd8eb3-41b2-4cd9-816b-c8f515980c7a
+  Hint: Open Properties after Add
+  Value: -
+- ID: c50b1f5b-26da-476a-aac6-9b734975971c
+  Hint: Assembly
+  Value: Sitecore.Apps.TagInjection.dll
+- ID: e2abdec6-83a6-4b68-97d1-b3cd79f10a8e
+  Hint: TagPrefix
+  Value: sc
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20130701T130900
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin

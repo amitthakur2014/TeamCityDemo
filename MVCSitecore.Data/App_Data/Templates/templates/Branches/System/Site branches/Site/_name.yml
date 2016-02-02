@@ -1,0 +1,85 @@
+﻿---
+ID: 5dfbe726-9996-4e47-9e65-4157727b5b0d
+Parent: 307c70d4-43aa-4d03-8c23-86572d958def
+Template: e37da970-1ee9-495b-8b34-911773adea82
+Path: /sitecore/templates/Branches/System/Site branches/Site/$name
+DB: master
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Type: TreelistEx
+  Value: {1F51B1E6-1F55-40F7-A4F1-E37032EFBE10}
+- ID: 1925af73-0ef8-49e8-8a8b-dee8907a2f53
+  Hint: domain
+  Value: extranet
+- ID: 21099dc0-8cc4-44ca-b9c0-bde887402241
+  Hint: allowDebug
+  Value: 1
+- ID: 2e61f2ff-4bda-4c44-8121-b29798cf50a0
+  Hint: xslCacheSize
+  Value: 5MB
+- ID: 322d181d-776b-4ca7-9bb1-fae2009d59b8
+  Hint: name
+  Value: $name
+- ID: 35ae0088-1805-4698-8d99-2c99541f9e4d
+  Hint: enableWebEdit
+  Value: 1
+- ID: 37e99fc5-4d1c-469d-a4f3-020812f95421
+  Hint: filteredItemsCacheSize
+  Value: 2MB
+- ID: 4d353ac3-e0f1-453a-8cea-43706ca0e730
+  Hint: cacheHtml
+  Value: 1
+- ID: 56559c81-f7be-4c9b-a001-55431e59ac04
+  Hint: enableDebugger
+  Value: 1
+- ID: 801a7c39-cee4-4bc6-9c60-eeb91cab0e46
+  Hint: rootPath
+  Value: /sitecore/content
+- ID: 81e8cdcf-97f6-4087-8928-b90035a29917
+  Hint: mode
+  Value: 1
+- ID: 864c9229-a5a7-4da2-8f35-519caff185b1
+  Hint: htmlCacheSize
+  Value: 10MB
+- ID: 8da61799-7965-40ad-8e00-f22d48137585
+  Hint: database
+  Value: web
+- ID: 9db2af5f-e0e6-4fcc-82c8-f0ed9874abaf
+  Hint: virtualFolder
+  Value: /
+- ID: b864d75b-df71-4c84-aabb-53aa2f915633
+  Hint: registryCacheSize
+  Value: 0
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 999
+- ID: d54e341a-a54f-422c-a484-2b9855501d74
+  Hint: startItem
+  Value: /home
+- ID: d7c619b3-88aa-43c0-a42e-58059f66cdba
+  Hint: physicalFolder
+  Value: /
+- ID: e9d5c302-b1f2-4ad7-8dfc-1498ec161a84
+  Hint: viewStateCacheSize
+  Value: 0
+- ID: f059ca86-4a18-42a1-a911-dbc1ecf313d6
+  Hint: enablePreview
+  Value: 1
+- ID: fcb39913-b34b-4f91-a0b1-4284fc50befb
+  Hint: language
+  Value: {AF584191-45C9-4201-8740-5409F4CF8BDD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20081014T103700
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      Hint: __Valid from
+      Value: 20060207T113300

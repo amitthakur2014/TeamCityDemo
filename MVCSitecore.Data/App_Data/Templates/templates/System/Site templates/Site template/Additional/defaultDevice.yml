@@ -1,0 +1,27 @@
+﻿---
+ID: 0e6d9e71-d222-4dd5-9cbf-0b78a30c1ae7
+Parent: 432925c1-0ac4-40ab-a5b0-0424954318f4
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/System/Site templates/Site template/Additional/defaultDevice
+DB: master
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  Hint: Type
+  Value: Single-Line Text
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 93
+- ID: be351a73-fcb0-4213-93fa-c302d8ab4f51
+  Hint: Shared
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20100218T152514
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin

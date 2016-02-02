@@ -1,0 +1,24 @@
+﻿---
+ID: 6106a2ed-10de-4e6f-8e4a-97285d990b53
+Parent: ae76a034-9491-4b83-99f5-39f227d6fb59
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/Sample/Sample Item/Data/QueryableDemo
+DB: master
+SharedFields:
+- ID: 1eb8ae32-e190-44a6-968d-ed904c794ebf
+  Hint: Source
+  Value: query:./ancestor-or-self::*[@@templatename='Website Root']/Data/Demo
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  Hint: Type
+  Value: Queryable Treelist
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20151019T094208Z

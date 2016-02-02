@@ -1,0 +1,17 @@
+﻿---
+ID: c478e461-da5b-4d27-bf7c-55278aaa2dfd
+Parent: 288fd8a3-f445-47e2-97b7-c95423c615ff
+Template: b431bca0-62ba-40fe-926b-d21fc0d548c7
+Path: /sitecore/templates/Branches/System/Site branches/Site link/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20150527T192642Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin

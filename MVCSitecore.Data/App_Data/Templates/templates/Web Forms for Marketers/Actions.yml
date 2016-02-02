@@ -1,0 +1,14 @@
+﻿---
+ID: 9de11cc6-dec9-4db2-b263-3ef420202cc1
+Parent: 383a08b8-17fe-4773-b936-aa017ee978e0
+Template: 239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b
+Path: /sitecore/templates/Web Forms for Marketers/Actions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20151119T115257Z

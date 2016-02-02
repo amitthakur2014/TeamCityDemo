@@ -1,0 +1,17 @@
+﻿---
+ID: f83f8cd8-827b-4506-9691-c984113ae3a0
+Parent: 4bf98ef5-1d09-4dd1-9afe-795f9829fd44
+Template: 239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b
+Path: /sitecore/templates/System/Modules
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20150621T110621Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: 383a08b8-17fe-4773-b936-aa017ee978e0
+Parent: 3c1715fe-6a13-4fcf-845f-de308ba9741d
+Template: 239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b
+Path: /sitecore/templates/Web Forms for Marketers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20151119T115255Z

@@ -1,0 +1,59 @@
+﻿---
+ID: e0cc55ce-5020-479a-95d0-cab777f6d033
+Parent: 8a8f2b67-f415-42fd-9e9e-4ed9cdef3b2f
+Template: 8a8f2b67-f415-42fd-9e9e-4ed9cdef3b2f
+Path: /sitecore/templates/System/Path Analyzer/Map/__Standard Values
+DB: master
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20150621T112548Z
+    - ID: 31fcbeb2-376a-481f-bb44-ef52301f33ca
+      Hint: Description
+      Value: "<p>oversigten \"$name\".</p>"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20150621T111830Z
+    - ID: 31fcbeb2-376a-481f-bb44-ef52301f33ca
+      Hint: Description
+      Value: "<p>\"$Name\" Karte.</p>"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20140903T044458Z
+    - ID: 31fcbeb2-376a-481f-bb44-ef52301f33ca
+      Hint: Description
+      Value: "<p>\"$name\" map.</p>"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20150621T113237Z
+    - ID: 31fcbeb2-376a-481f-bb44-ef52301f33ca
+      Hint: Description
+      Value: "<p>\"$name\" マップ</p>"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: sitecore\admin
