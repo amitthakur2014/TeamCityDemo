@@ -143,7 +143,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Content Include="Views\Web.config" />
+    <None Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -159,39 +159,39 @@
     <Content Include="MvcApplication.nuspec" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Rainbow.config" />
+    <None Include="App_Config\Include\Rainbow.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.config">
+    <None Include="App_Config\Include\Unicorn\Unicorn.config">
       <TransformOnBuild>true</TransformOnBuild>
-    </Content>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App_Config\Include\Unicorn\Unicorn.Debug.config">
